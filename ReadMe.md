@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hello there! I am a student currently in my fourth year of Bachelor's in Engineering in Computer Engineering. My primary area of interest is in Machine Learning and Deep Learning, and I am currently focusing on learning these subjects. In addition, I am also studying Amazon Web Services (AWS) to gain a better understanding of cloud computing. As a computer engineering student, I am passionate about exploring new technologies and learning about their practical applications. I look forward to using my skills and knowledge to contribute to the field of computer engineering and make a positive impact on the world.
+Hello! I'm currently pursuing a Master's degree in Computer Science at Pace University with a concentration in Artificial Intelligence. My primary interests lie in Machine Learning and Deep Learning, and I'm actively expanding my knowledge through both academic and personal projects. In addition, I’m exploring Amazon Web Services (AWS) to deepen my understanding of cloud computing technologies.
+
+With expertise in Python, Data Science, Natural Language Processing, and various machine learning tools like Scikit-learn, XGBoost, and CatBoost, I'm passionate about leveraging emerging technologies to solve real-world challenges. My ultimate goal is to make a meaningful contribution to the field of computer science and have a positive impact on the world.
 
 
 ## 🌐 Socials:
